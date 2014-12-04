@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 11 Nov 2014 17:54:03 GMT
+Date: Thu, 04 Dec 2014 03:41:43 GMT
 Server: HTTPDaemon
 X-Frame-Options: SAMEORIGIN
 Cache-Control: private
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: uu=BCYtg39aozZ6ob2zQssl2-x7Ffcuv46_yQNJNpsBa6SHyR_5OLKXkuWolqnR4HLltcRVeAAoCqYd01T_Z3_7LrJU4JC92tJFSmr6YWKbXGxWLmdqp8yjtnkQYu8IGaLnAFLw-m3UXCpQxb7BOZByVIJ5nWVHTHRq-s7NsilNEqn8w7s;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=d6yhu0TMo0gA1j0jALoirQeBbbqgkVqM8BkNuqPSXTKz4k4544IuqfCRXRoA0U26oKcq7CRBbbqjhOgp59HN2eCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 12 Nov 2014 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYvbpJ2n1QVbjKROELDFHM8VXKeJpgTBMcl05LSX10hBzGRrcQ7SKLKKKjairbY8_muMMA_peXZiF9hhqLgfoScJsdD6gA0yunJXnnw8WX0ZqKIEZEzxVD9GfzxBLY9vISupd0bgMpXTP9WAg3ysKfMW6hyf-7qY2NPXbbo2xRlO1s;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=cm5BIPkOC/rxQPWe6Bf0fQCmW+248W26o6HlqiPyLumj0n7JwKHNGbCxbbqm1js64JFtupbFyc5j8ivOR9HNKcCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Thu, 04 Dec 2014 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,15 +20,15 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "0617EP1234S9YBPKE672");
+    xhr.setRequestHeader("x-imdb-parent-id", "0HBEDX9F8KCEMA282REG");
 };
 </script>
 
-<title>USA Box Office: 7 November 2014</title>
+<title>USA Box Office: 2 December 2014</title>
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <link rel="canonical" href="http://www.imdb.com/boxoffice/" /><meta property="og:url" content="http://www.imdb.com/boxoffice/" />
 
-<meta name="title" content="USA Box Office: 7 November 2014">
+<meta name="title" content="USA Box Office: 2 December 2014">
 <meta name="description" content="IMDb, the world&#x27;s most popular and authoritative source for movie, TV and celebrity content.">
 
 <meta name="keywords" content="movies,films,movie database,actors,actresses,directors,hollywood,stars,quotes">
@@ -95,7 +95,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
 
 <meta property="fb:app_id" content="115109575169727" />
-<meta property="og:title" content="USA Box Office: 7 November 2014" />
+<meta property="og:title" content="USA Box Office: 2 December 2014" />
 <meta property="og:site_name" content="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
 <!-- start m/s/a/_g_a_s , head -->
@@ -108,23 +108,23 @@ var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
 (function(){var d=function(o){return Object.prototype.toString.call(o)==="[object Array]";},g=function(q,p){var o;for(o=0;o<q.length;o++){if(o in q){p.call(null,q[o],o);}}},h=[],k,b,l=false,n=false,f=function(){var o=[],p=[],q={};g(h,function(s){var r="";g(s.dartsite.split("/"),function(t){if(t!==""){if(t in q){}else{q[t]=o.length;o.push(t);}r+="/"+q[t];}});p.push(r);});return{iu_parts:o,enc_prev_ius:p};},c=function(){var o=[];g(h,function(q){var p=[];g(q.sizes,function(r){p.push(r.join("x"));});o.push(p.join("|"));});return o;},m=function(){var o=[];g(h,function(p){o.push(a(p.targeting));});return o.join("|");},a=function(r,o){var q,p,s=[];for(q in r){p=[];for(j=0;j<r[q].length;j++){p.push(encodeURIComponent(r[q][j]));}if(o){s.push(q+"="+encodeURIComponent(p.join(",")));}else{s.push(q+"="+p.join(","));}}return s.join("&");},e=function(){var o=+new Date();if(n){return;}if(!this.readyState||"loaded"===this.readyState){n=true;if(l){imdbads.cmd.push(function(){for(i=0;i<h.length;i++){generic.monitoring.record_metric(h[i].name+".fail",csm.duration(o));}});}}};window.tinygpt={define_slot:function(r,q,o,p){h.push({dartsite:r.replace(/\/$/,""),sizes:q,name:o,targeting:p});},set_targeting:function(o){k=o;},callback:function(q){var r,p={},t,o,s=+new Date();l=false;for(r=0;r<h.length;r++){t=h[r].dartsite;o=h[r].name;if(q[r][t]){p[o]=q[r][t];}else{window.console&&console.error&&console.error("Unable to correlate GPT response for "+o);}}imdbads.cmd.push(function(){for(r=0;r<h.length;r++){ad_utils.slot_events.trigger(h[r].name,"request",{timestamp:b});ad_utils.slot_events.trigger(h[r].name,"tagdeliver",{timestamp:s});}ad_utils.gpt.handle_response(p);});},send:function(){var r=[],q=function(s,t){if(d(t)){t=t.join(",");}if(t){r.push(s+"="+encodeURIComponent(""+t));}},o,p;if(h.length===0){tinygpt.callback({});return;}q("gdfp_req","1");q("correlator",Math.floor(4503599627370496*Math.random()));q("output","json_html");q("callback","tinygpt.callback");q("impl","fifs");q("json_a","1");result=f();q("iu_parts",result.iu_parts);q("enc_prev_ius",result.enc_prev_ius);q("prev_iu_szs",c());q("prev_scp",m());q("cust_params",a(k,true));o=document.createElement("script");p=document.getElementsByTagName("script")[0];o.async=true;o.type="text/javascript";o.src="http://pubads.g.doubleclick.net/gampad/ads?"+r.join("&");o.id="tinygpt";o.onload=o.onerror=o.onreadystatechange=e;l=true;p.parentNode.insertBefore(o,p);b=+new Date();}};})();</script>
 <script>
 tinygpt.define_slot('/4215/imdb2.consumer.main/boxoffice',
-[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
-'top_ad',
-{
-'p': ['top','t']
-});
-tinygpt.define_slot('/4215/imdb2.consumer.main/boxoffice',
 [[300,250],[300,600],[11,1]],
 'top_rhs',
 {
 'p': ['tr']
 });
+tinygpt.define_slot('/4215/imdb2.consumer.main/boxoffice',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
 tinygpt.set_targeting({
 'fv' : ['1'],
 'ab' : ['f'],
 'bpx' : ['1'],
-'c' : ['0'],
-'u': ['458248566608'],
+'c' : ['1'],
+'u': ['041371917759'],
 'oe': ['utf-8']
 });
 tinygpt.send();
@@ -172,16 +172,16 @@ generic.monitoring.set_forester_info("main");
 generic.monitoring.set_twilight_info(
 "main",
 "Other",
-"ae5db229dfda5cb3efce5047a7a2b1dc89fdf306",
-"2014-11-11T17%3A54%3A03GMT",
+"2c005737639efc49d3ce8a62f833810eefd24483",
+"2014-12-04T03%3A41%3A43GMT",
 "http://s.media-imdb.com/twilight/?",
 "consumer");
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 50757;
-generic.days_to_midnight = 0.5874652862548828;
-ad_utils.set_slots_on_page({ 'injected_navstrip':1, 'top_rhs':1, 'top_ad':1, 'bottom_ad':1, 'injected_billboard':1 });
-custom.full_page.data_url = "http://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-806923729._CB324412741_.js";
+generic.seconds_to_midnight = 15497;
+generic.days_to_midnight = 0.1793634295463562;
+ad_utils.set_slots_on_page({ 'injected_navstrip':1, 'top_ad':1, 'top_rhs':1, 'bottom_ad':1, 'injected_billboard':1 });
+custom.full_page.data_url = "http://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-3955167245._CB318919114_.js";
 consoleLog('advertising initialized','ads');
 },"ads js missing, skipping ads setup.");
 var _gaq = _gaq || [];
@@ -216,8 +216,8 @@ doWithAds(function(){
 ad_utils.register_ad('top_ad');
 });
 </script>
-<iframe data-dart-params="#imdb2.consumer.main/boxoffice;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=0;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=458248566608;ord=458248566608?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
-<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.main/boxoffice;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=0;ord=458248566608?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.main/boxoffice;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=0;ord=458248566608?" border="0" alt="advertisement" /></a></noscript>
+<iframe data-dart-params="#imdb2.consumer.main/boxoffice;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=041371917759;ord=041371917759?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.main/boxoffice;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=1;ord=041371917759?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.main/boxoffice;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;c=1;ord=041371917759?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_ad_reflow_helper"></div>
 <script>
@@ -345,7 +345,7 @@ ad_utils.gpt.render_ad('top_ad');
                 <div class="subNavListContainer">
                     <h5>CELEBS</h5>
                     <ul>
-                        <li><a     href="/search/name?birth_monthday=11-11&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
+                        <li><a     href="/search/name?birth_monthday=12-3&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
                         <li><a     href="/news/celebrity?ref_=nv_cel_nw_2"    >Celebrity News</a></li>
                         <li><a     href="/search/name?gender=male,female&ref_=nv_cel_m_3"    >Most Popular Celebs</a></li>
                     </ul>
@@ -360,10 +360,10 @@ ad_utils.gpt.render_ad('top_ad');
                 <div class="subNavListContainer">
                     <h5>EVENTS</h5>
                     <ul>
-                        <li><a     href="/toronto/?ref_=nv_ev_tff_1"    >Toronto Film Festival</a></li>
-                        <li><a     href="/venice/?ref_=nv_ev_venice_2"    >Venice Film Festival</a></li>
-                        <li><a     href="/sxsw/?ref_=nv_ev_sxsw_3"    >SXSW Film Festival</a></li>
-                        <li><a     href="/oscars/?ref_=nv_ev_rto_4"    >Road to the Oscars</a></li>
+                        <li><a     href="/awards-central/?ref_=nv_ev_awrd_1"    >Awards Central</a></li>
+                        <li><a     href="/toronto/?ref_=nv_ev_tff_2"    >Toronto Film Festival</a></li>
+                        <li><a     href="/venice/?ref_=nv_ev_venice_3"    >Venice Film Festival</a></li>
+                        <li><a     href="/sxsw/?ref_=nv_ev_sxsw_4"    >SXSW Film Festival</a></li>
                         <li><a     href="/emmys/?ref_=nv_ev_rte_5"    >Road to the Emmys</a></li>
                         <li><a     href="/comic-con/?ref_=nv_ev_comic_6"    >Comic-Con</a></li>
                         <li><a     href="/cannes/?ref_=nv_ev_can_7"    >Cannes</a></li>
@@ -387,21 +387,21 @@ ad_utils.gpt.render_ad('top_ad');
                         
 <ul>
     <li itemprop="headline">
-        <a     href="/news/ni57991919/?ref_=nb_nwt_1"    >
-            Starz Orders &#x2018;Evil Dead&#x2019; Sequel Series for 2015</a><br />
-            <span class="time">20 hours ago
+        <a     href="/news/ni58073045/?ref_=nb_nwt_1"    >
+            Christopher Nolan to Receive Art Directors Guild&#x27;s Cinematic Imagery Award</a><br />
+            <span class="time">11 hours ago
 </span>
     </li>
     <li itemprop="headline">
-        <a     href="/news/ni57990951/?ref_=nb_nwt_2"    >
-            &#x2018;Interstellar&#x2019; Final Box Office Fails to Hit $50 Million Estimates</a><br />
-            <span class="time">10 November 2014 9:27 AM, PST
+        <a     href="/news/ni58073046/?ref_=nb_nwt_2"    >
+            Emily Mortimer&#x27;s &#x27;Doll &#x26; Em&#x27; Renewed for Second Season at HBO</a><br />
+            <span class="time">11 hours ago
 </span>
     </li>
     <li itemprop="headline">
-        <a     href="/news/ni57991918/?ref_=nb_nwt_3"    >
-            Showtime Renews &#x2018;The Affair&#x2019; and &#x2018;Homeland&#x2019;</a><br />
-            <span class="time">20 hours ago
+        <a     href="/news/ni58073504/?ref_=nb_nwt_3"    >
+            Bill Cosby Sued for Sexually Assaulting 15-Year-Old Girl</a><br />
+            <span class="time">11 hours ago
 </span>
     </li>
 </ul>
@@ -464,7 +464,7 @@ ad_utils.gpt.render_ad('top_ad');
     </ul>
     <script>
     if (!('imdb' in window)) { window.imdb = {}; }
-    window.imdb.navbarAdSlots = {"nameAd":{"clickThru":"http://www.imdb.com/name/nm0010736/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMjMxNTMyNDY3MV5BMl5BanBnXkFtZTcwODU1OTQwNw@@._V1._SX260_CR0,0,250,315_.jpg","rank":72,"headline":"Amy Adams"},"titleAd":{"clickThru":"http://www.imdb.com/title/tt0090605/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMjE5MTQxNTE3Nl5BMl5BanBnXkFtZTcwMjM0ODEyMw@@._V1._SY315_CR58,0,410,315_.jpg","titleYears":"1986","titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"Aliens","titleId":"tt0090605","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"Aliens: El regreso"},{"region":"AT","title":"Aliens - Die Rückkehr"},{"language":"qbn","region":"BE","title":"Aliens - De nieuwe gruwel"},{"language":"bg","region":"BG","title":"Пришълците"},{"region":"BR","title":"Aliens, O Resgate"},{"language":"fr","region":"CA","title":"Aliens- Le retour"},{"language":"cs","region":"CSHH","title":"Vetrelci"},{"language":"sk","region":"CSHH","title":"Votrelci"},{"region":"CZ","title":"Vetrelci"},{"region":"DDDE","title":"Alien II"},{"region":"DK","title":"Aliens - det endelige opgør"},{"region":"EE","title":"Tulnukad"},{"region":"ES","title":"Aliens (El regreso)"},{"region":"FI","title":"Aliens - Paluu"},{"language":"sv","region":"FI","title":"Aliens - Återkomsten"},{"region":"FR","title":"Aliens - Le retour"},{"region":"HU","title":"A bolygó neve: Halál"},{"region":"IT","title":"Aliens - Scontro finale"},{"language":"en","region":"JP","title":"Alien 2"},{"region":"LT","title":"Svetimi"},{"region":"MX","title":"Aliens, el regreso"},{"region":"NO","title":"Aliens"},{"region":"PE","title":"Aliens: El regreso"},{"region":"PL","title":"Obcy - decydujace starcie"},{"region":"PT","title":"Aliens: O Reencontro Final"},{"region":"RO","title":"Aliens - Misiune de pedeapsa"},{"region":"RS","title":"Osmi putnik 2"},{"region":"RU","title":"Чужиe"},{"region":"SE","title":"Aliens - Återkomsten"},{"language":"ru","region":"SUHH","title":"вСФХЕ"},{"language":"tr","region":"TR","title":"Yaratigin Dönüsü"},{"region":"US","title":"Aliens"},{"region":"UY","title":"Aliens: El regreso"},{"region":"VN","title":"Nhung Nguoi Ngoai Hanh Tinh"},{"region":"XWG","title":"Aliens - Die Rückkehr"},{"language":"sr","region":"XYU","title":"Osmi putnik 2"}],"year":"1986"},"rank":63,"headline":"Aliens"}};
+    window.imdb.navbarAdSlots = {"nameAd":{"clickThru":"http://www.imdb.com/name/nm1567113/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMjE0MTE5ODE4Nl5BMl5BanBnXkFtZTcwNjYzNTI4Nw@@._V1._SX250_CR0,0,250,315_CT10_.jpg","rank":27,"headline":"Jessica Chastain"},"titleAd":{"clickThru":"http://www.imdb.com/title/tt0088763/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMjA4MzI0NzI3MF5BMl5BanBnXkFtZTcwOTc4Mzg0OQ@@._V1._SY345_CR30,30,410,315_.jpg","titleYears":"1985","titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"Back to the Future","titleId":"tt0088763","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"Volver al futuro"},{"language":"bg","region":"BG","title":"Завръщане в бъдещето"},{"region":"BR","title":"De Volta para o Futuro"},{"language":"fr","region":"CA","title":"Retour vers le futur"},{"region":"CSHH","title":"Návrat do budoucnosti"},{"language":"cs","region":"CSHH","title":"Návrat do budoucnosti"},{"language":"sk","region":"CSHH","title":"Návrat do budúcnosti"},{"region":"DK","title":"Tilbage til fremtiden"},{"region":"EE","title":"Tagasi tulevikku"},{"region":"ES","title":"Regreso al futuro"},{"language":"ca","region":"ES","title":"Retorn al futur"},{"region":"FI","title":"Paluu tulevaisuuteen"},{"region":"FR","title":"Retour vers le futur"},{"region":"GR","title":"Επιστροφή στο Μέλλον"},{"region":"HR","title":"Povratak u budućnost"},{"region":"HU","title":"Vissza a jövőbe"},{"language":"he","region":"IL","title":"Behazara La'Ateed"},{"region":"IS","title":"Aftur til framtíðar"},{"region":"IT","title":"Ritorno al futuro"},{"language":"en","region":"JP","title":"Back to the Future"},{"region":"LT","title":"Atgal i ateiti"},{"region":"MX","title":"Volver al futuro"},{"region":"NO","title":"Tilbake til fremtiden"},{"region":"PE","title":"Volver al futuro"},{"region":"PL","title":"Powrót do przyszlosci"},{"region":"PT","title":"Regresso ao Futuro"},{"region":"RO","title":"Inapoi in viitor"},{"region":"RS","title":"Povratak u budućnost"},{"region":"RU","title":"Назад в будущее"},{"region":"SE","title":"Tillbaka till framtiden"},{"region":"SI","title":"Vrnitev v prihodnost"},{"language":"tr","region":"TR","title":"Gelecege Dönüs"},{"region":"US","title":"Back to the Future"},{"region":"UY","title":"Volver al futuro"},{"region":"XWG","title":"Zurück in die Zukunft"},{"language":"hr","region":"XYU","title":"Povratak u buducnost"}],"year":"1985"},"rank":49,"headline":"Back to the Future"}};
     </script>
 </div>
 
@@ -566,7 +566,7 @@ ad_utils.gpt.render_ad('top_ad');
 
 <!-- begin injectable INJECTED_NAVSTRIP -->
 <div id="injected_navstrip_wrapper" class="injected_slot">
-<iframe id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-dart-params="#imdb2.consumer.main/boxoffice;oe=utf-8;u=458248566608;ord=458248566608?" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
+<iframe id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-dart-params="#imdb2.consumer.main/boxoffice;oe=utf-8;u=041371917759;ord=041371917759?" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
 <script>
 doWithAds(function(){
 ad_utils.inject_ad.register('injected_navstrip');
@@ -581,7 +581,7 @@ ad_utils.inject_ad.register('injected_navstrip');
 
 <!-- begin injectable INJECTED_BILLBOARD -->
 <div id="injected_billboard_wrapper" class="injected_slot">
-<iframe id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-dart-params="#imdb2.consumer.main/boxoffice;oe=utf-8;u=458248566608;ord=458248566608?" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
+<iframe id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-dart-params="#imdb2.consumer.main/boxoffice;oe=utf-8;u=041371917759;ord=041371917759?" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
 <script>
 doWithAds(function(){
 ad_utils.inject_ad.register('injected_billboard');
@@ -891,19 +891,19 @@ US Box Office: USA Top 10
       <b>1</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjI4MTIzODU2NV5BMl5BanBnXkFtZTgwMjE0NDAwMjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
   </td>
   <td>
 
-<a  href="/title/tt2245084/" >Big Hero 6</a> (2014)
+<a  href="/title/tt1951265/" >The Hunger Games: Mockingjay - Part 1</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$56.2M
+  <td style="text-align: right; padding-right: 20px;">$57M
   </td>
   <td style="text-align: right;">
-$56.2M
+$226M
   </td>
   <td style="text-align: center;">
-1
+2
   </td>
 
 </tr>
@@ -913,16 +913,16 @@ $56.2M
       <b>2</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1._SX23_SY30_.jpg" width="19" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTEyMDg4MDU4MjdeQTJeQWpwZ15BbWU4MDQyOTc3MjIx._V1._SX23_SY30_.jpg" width="20" height="30">
   </td>
   <td>
 
-<a  href="/title/tt0816692/" >Interstellar</a> (2014)
+<a  href="/title/tt1911658/" >Penguins of Madagascar</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$47.5M
+  <td style="text-align: right; padding-right: 20px;">$25.4M
   </td>
   <td style="text-align: right;">
-$49.7M
+$35.4M
   </td>
   <td style="text-align: center;">
 1
@@ -935,19 +935,19 @@ $49.7M
       <b>3</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjI4MTIzODU2NV5BMl5BanBnXkFtZTgwMjE0NDAwMjE@._V1._SX23_SY30_.jpg" width="20" height="30">
   </td>
   <td>
 
-<a  href="/title/tt2267998/" >Gone Girl</a> (2014)
+<a  href="/title/tt2245084/" >Big Hero 6</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$6.21M
+  <td style="text-align: right; padding-right: 20px;">$18.8M
   </td>
   <td style="text-align: right;">
-$146M
+$167M
   </td>
   <td style="text-align: center;">
-6
+4
   </td>
 
 </tr>
@@ -957,19 +957,19 @@ $146M
       <b>4</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTQ1NzcwMTU5MF5BMl5BanBnXkFtZTgwOTE5MzEyMjE@._V1._SX23_SY30_.jpg" width="19" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1._SX23_SY30_.jpg" width="19" height="30">
   </td>
   <td>
 
-<a  href="/title/tt1204977/" >Ouija</a> (2014)
+<a  href="/title/tt0816692/" >Interstellar</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$5.87M
+  <td style="text-align: right; padding-right: 20px;">$15.7M
   </td>
   <td style="text-align: right;">
-$43.3M
+$147M
   </td>
   <td style="text-align: center;">
-3
+4
   </td>
 
 </tr>
@@ -979,19 +979,19 @@ $43.3M
       <b>5</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BNzU4OTEzNzAwN15BMl5BanBnXkFtZTgwMTgwODAwMzE@._V1._SX23_SY30_.jpg" width="20" height="30">
   </td>
   <td>
 
-<a  href="/title/tt2713180/" >Fury</a> (2014)
+<a  href="/title/tt2170439/" >Horrible Bosses 2</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$5.63M
+  <td style="text-align: right; padding-right: 20px;">$15.5M
   </td>
   <td style="text-align: right;">
-$69.4M
+$22.8M
   </td>
   <td style="text-align: center;">
-4
+1
   </td>
 
 </tr>
@@ -1001,60 +1001,16 @@ $69.4M
       <b>6</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTk5NzI5OTA4MF5BMl5BanBnXkFtZTgwNjc4NTM3MjE@._V1._SX23_SY30_.jpg" width="19" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTYxMzA0MzAyMF5BMl5BanBnXkFtZTgwMjMyNjcwMjE@._V1._SX23_SY30_.jpg" width="19" height="30">
   </td>
   <td>
 
-<a  href="/title/tt2170593/" >St. Vincent</a> (2014)
+<a  href="/title/tt2096672/" >Dumb and Dumber To</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$5.41M
-  </td>
-  <td style="text-align: right;">
-$27.1M
-  </td>
-  <td style="text-align: center;">
-5
-  </td>
-
-</tr>
-<tr class="chart_even_row">
-
-  <td style="text-align: right;">
-      <b>7</b>
-  </td>
-  <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMjM5NjkzMjE5MV5BMl5BanBnXkFtZTgwNTMzNTk4MjE@._V1._SX23_SY30_.jpg" width="19" height="30">
-  </td>
-  <td>
-
-<a  href="/title/tt2872718/" >Nightcrawler</a> (2014)
-  </td>
-  <td style="text-align: right; padding-right: 20px;">$5.37M
+  <td style="text-align: right; padding-right: 20px;">$8.36M
   </td>
   <td style="text-align: right;">
-$19.6M
-  </td>
-  <td style="text-align: center;">
-2
-  </td>
-
-</tr>
-<tr class="chart_odd_row">
-
-  <td style="text-align: right;">
-      <b>8</b>
-  </td>
-  <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
-  </td>
-  <td>
-
-<a  href="/title/tt2911666/" >John Wick</a> (2014)
-  </td>
-  <td style="text-align: right; padding-right: 20px;">$4.14M
-  </td>
-  <td style="text-align: right;">
-$34.8M
+$72.2M
   </td>
   <td style="text-align: center;">
 3
@@ -1064,22 +1020,66 @@ $34.8M
 <tr class="chart_even_row">
 
   <td style="text-align: right;">
-      <b>9</b>
+      <b>7</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BOTgxMDMxMTY5OV5BMl5BanBnXkFtZTgwMjY1NzYzMjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1._SX23_SY30_.jpg" width="20" height="30">
   </td>
   <td>
 
-<a  href="/title/tt1698641/" >Alexander and the Terrible, Horrible, No Good, Very Bad Day</a> (2014)
+<a  href="/title/tt2980516/" >The Theory of Everything</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$3.54M
+  <td style="text-align: right; padding-right: 20px;">$5.01M
   </td>
   <td style="text-align: right;">
-$59.3M
+$9.53M
   </td>
   <td style="text-align: center;">
-5
+4
+  </td>
+
+</tr>
+<tr class="chart_odd_row">
+
+  <td style="text-align: right;">
+      <b>8</b>
+  </td>
+  <td>
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+  </td>
+  <td>
+
+<a  href="/title/tt2267998/" >Gone Girl</a> (2014)
+  </td>
+  <td style="text-align: right; padding-right: 20px;">$2.47M
+  </td>
+  <td style="text-align: right;">
+$161M
+  </td>
+  <td style="text-align: center;">
+9
+  </td>
+
+</tr>
+<tr class="chart_even_row">
+
+  <td style="text-align: right;">
+      <b>9</b>
+  </td>
+  <td>
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+  </td>
+  <td>
+
+<a  href="/title/tt2562232/" >Birdman</a> (2014)
+  </td>
+  <td style="text-align: right; padding-right: 20px;">$1.87M
+  </td>
+  <td style="text-align: right;">
+$17.2M
+  </td>
+  <td style="text-align: center;">
+7
   </td>
 
 </tr>
@@ -1089,19 +1089,19 @@ $59.3M
       <b>10</b>
   </td>
   <td>
-      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTkzOTgzNDYzOF5BMl5BanBnXkFtZTgwOTgxMTkyMjE@._V1._SX23_SY30_.jpg" width="20" height="30">
+      <img border="0" src="http://ia.media-imdb.com/images/M/MV5BMTk5NzI5OTA4MF5BMl5BanBnXkFtZTgwNjc4NTM3MjE@._V1._SX23_SY30_.jpg" width="19" height="30">
   </td>
   <td>
 
-<a  href="/title/tt2262227/" >The Book of Life</a> (2014)
+<a  href="/title/tt2170593/" >St. Vincent</a> (2014)
   </td>
-  <td style="text-align: right; padding-right: 20px;">$2.75M
+  <td style="text-align: right; padding-right: 20px;">$1.7M
   </td>
   <td style="text-align: right;">
-$45.2M
+$39.3M
   </td>
   <td style="text-align: center;">
-4
+8
   </td>
 
 </tr>
@@ -1125,8 +1125,8 @@ doWithAds(function(){
 ad_utils.register_ad('top_rhs');
 });
 </script>
-<iframe data-dart-params="#imdb2.consumer.main/boxoffice;!TILE!;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=0;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=458248566608;ord=458248566608?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
-<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.main/boxoffice;tile=1;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=0;ord=458248566608?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.main/boxoffice;tile=1;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=0;ord=458248566608?" border="0" alt="advertisement" /></a></noscript>
+<iframe data-dart-params="#imdb2.consumer.main/boxoffice;!TILE!;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=041371917759;ord=041371917759?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.main/boxoffice;tile=1;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=1;ord=041371917759?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.main/boxoffice;tile=1;sz=300x250,300x600,11x1;p=tr;fv=1;ab=f;bpx=1;c=1;ord=041371917759?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_rhs_reflow_helper"></div>
 <div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
@@ -1289,9 +1289,9 @@ An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 n
   
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023031343131313130000001037a040379646370000001047&cb=141572844313540" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023031343132303330000001037a040379646370000001047&cb=14176645042811" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop718 i=2014-11-10 s=legacy(akas) t='Tue Nov 11 09:54:03 2014' -->
+<!-- h=iop624 i=2014-12-03 s=legacy(akas) t='Wed Dec  3 19:41:43 2014' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><!-- begin ads footer -->
 
 <!-- Begin SIS code --> 
@@ -1309,7 +1309,7 @@ An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 n
                     "r=1",
                     "rP=http%3A%2F%2Fakas.imdb.com%2Fboxoffice%2F",
                     "encoding=server",
-                    "cb=458248566608"  
+                    "cb=041371917759"  
                 ];
         
             (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
@@ -1348,7 +1348,7 @@ c15:""
 
 <script>
     doWithAds(function(){
-        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=458248566608&ord=458248566608";
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=041371917759&ord=041371917759";
     },"unable to request AAN pixel");
 </script>
 
