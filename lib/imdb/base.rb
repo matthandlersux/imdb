@@ -17,35 +17,24 @@ module Imdb
       @title = title.gsub(/"/, '').strip if title
     end
 
-    # Returns an array with cast members
-    def cast_members
-      document.search('table.cast td.nm a').map { |link| link.content.strip } rescue []
-    end
-
-    def cast_member_ids
-      document.search('table.cast td.nm a').map { |l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
-    end
-
-    # Returns an array with cast characters
-    def cast_characters
-      document.search('table.cast td.char').map { |link| link.content.strip } rescue []
-    end
-
-    # Returns an array with cast members and characters
-    def cast_members_characters(sep = '=>')
-      memb_char = []
-      cast_members.each_with_index do |_m, i|
-        memb_char[i] = "#{cast_members[i]} #{sep} #{cast_characters[i]}"
+    def cast
+      document.search('table.cast td.nm a').map do |link|
+        link_to_person(link, :actor)
       end
-      memb_char
     end
 
-    # Returns the name of the director
+    def link_to_person(link, role)
+      name = link.content.strip
+      id = link['href'].sub(%r{^/name/(.*)/}, '\1')
+      Person.new(id, name, role)
+    end
+
+    # Returns the director
     def director
-      document.search("h5[text()^='Director'] ~ div a").map { |link| link.content.strip } rescue []
+      document.search("h5[text()^='Director'] ~ div a").map { |link| link_to_person(link, :director) } rescue []
     end
 
-    # Returns the names of Writers
+    # Returns the Writers
     def writers
       writers_list = []
 
